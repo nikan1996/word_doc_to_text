@@ -1,6 +1,8 @@
 # word_doc_to_text.py
 
-For **CHINESE** doc!!!
+Test pass in **Linux , Windows**
+
+For **CHINESE** doc
 
 Extracting text from MS word files in python
 
@@ -8,8 +10,8 @@ Now only a function is provided for you to use, but this is enough to convert a 
 
 # libre_office.py
 
-Depends on libre_office, provide a better ms word extract way
+Depends on libre_office, provide a better way to extract ms word
 
 ## MORE
 
-For **ENGLISH**, recommend  for using **antiword** or **catdoc**
+For **ENGLISH**, I recommend  for using **antiword** or **catdoc**
