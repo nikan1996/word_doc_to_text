@@ -15,3 +15,10 @@ Depends on libre_office, provide a better way to extract ms word
 ## MORE
 
 For **ENGLISH**, I recommend  for using **antiword** or **catdoc**
+These two are little and light for applying
+
+
+### 2017/9/18 update:
+I find something good which I was not found before
+[pandoc](http://pandoc.org/installing.html)
+and for python developer, there is a good wrapper to use [Pyandoc](https://github.com/kennethreitz/pyandoc)
