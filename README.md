@@ -19,6 +19,6 @@ These two are little and light for applying
 
 
 ### 2017/9/18 update:
-I find something good which I was not found before  --[pandoc](http://pandoc.org/installing.html)-
-  -
+I find something good which I was not found before  --[pandoc](http://pandoc.org/installing.html)--
+  
 and for python developer, there is a good wrapper --[Pyandoc](https://github.com/kennethreitz/pyandoc)-- to use
