@@ -2,7 +2,7 @@
 
 Test pass in **Linux , Windows**
 
-For **CHINESE** doc
+For **CHINESE** doc(aha, it just depend on character encoding)
 
 Extracting text from MS word files in python
 
@@ -14,11 +14,11 @@ Depends on libre_office, provide a better way to extract ms word
 
 ## MORE
 
-For **ENGLISH**, I recommend  for using **antiword** or **catdoc**
-These two are little and light for applying
+For **ENGLISH**, I recommend using **antiword** or **catdoc**
+These two are little and lightweight for applying
 
 
 ### 2017/9/18 update:
 I find something good which I was not found before  --[pandoc](http://pandoc.org/installing.html)--
   
-and for python developer, there is a good wrapper --[Pyandoc](https://github.com/kennethreitz/pyandoc)-- to use
+and for python developer, here is a good wrapper --[Pyandoc](https://github.com/kennethreitz/pyandoc)-- to use
